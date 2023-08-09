@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib scikit-learn statsmodels keras tensorflow
 
 ## Usage
 
-> Place the dataset file (`yahoo_stock.csv`) in the `data/` folder.
+> Use dataset file (`yahoo_stock.csv`) in the `data/` folder.
 
 
 ## Results
